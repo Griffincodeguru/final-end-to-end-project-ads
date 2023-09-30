@@ -1,31 +1,14 @@
-The Public 2023 Stack Overflow Developer Survey Results
+Greetings!!!
+The project attached to this README_2023.txt file is a complete brain child by solely Mr Tsaone Rantaung.The project intends to analyse Botswana 2019 population census and 2019 elections for the major settlements only. I chose Botswana because i am a motswana and my country is to embark yet again in another elections next year hence this was a relevant system to carryout. 
 
 Description:
+The enclosed data set is the complete, cleaned results of Botswana major settlemets 2019 population census and the population involvement in the country's elections in the same year. There are three files besides this README_2023.txt:
 
-The enclosed data set is the complete, cleaned results of the 2023 Stack Overflow Developer Survey. Free response submissions have been removed. There are three files besides this README:
+1. pdata.csv-which is the raw data that was use to carry this analysis.
+2.botswana_population-checkpoint.ipynb which analysis the general population which at some point narrows down to Palapye settlement which is my home town.
+2. BWpopulationvisualspp.py-this is a streamlit platform used to visualise part of the data analysis.
 
-1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
-2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
-3. so_survey_2022.pdf - PDF file of the survey instrument
+Acknowledgement
+I would like to send my heartfelt gratitude to Botswana independence Electoral Committee for allowing me to use their data to carry my project. I would also thank my friend Edmond Madimabe for his contributions and advices on this project. And lastly, would like to thank African Data School for this unfathomable amazing experience of learning and growth that i will forever embrace in my heart. I really enjoyed every moment of my studies with you and will do it again in the next life.
 
-The survey was fielded from May 8, 2023 to May 19, 2023. The median time spent on the survey for qualified responses was 17 minutes.
 
-Respondents were recruited primarily through channels owned by Stack Overflow. The top 5 sources of respondents were onsite messaging, blog posts, email lists, meta.stackoverflow posts, banner ads, and social media posts. Since respondents were recruited in this way, highly engaged users on Stack Overflow were more likely to notice the links for the survey and click to begin it.
-
-You can find the official published results here:
-
-https://survey.stackoverflow.co/2023/
-
-Find previous survey results here:
-
-https://insights.stackoverflow.com/survey
-
-Legal:
-
-This database - The Public 2023 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
-
-TLDR: You are free to share, adapt, and create derivative works from The Public 2023 Stack Overflow Developer Survey Results as long as you attribute Stack Overflow, keep the database open (if you redistribute it), and continue to share-alike any adapted database under the ODbl.
-
-Acknowledgment:
-
-Massive, heartfelt thanks to all Stack Overflow contributors and lurking developers of the world who took part in the survey this year. We value your generous participation more than you know. <3
