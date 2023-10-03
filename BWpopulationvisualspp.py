@@ -27,4 +27,4 @@ fig = px.bar(
     title= f'<b>Males, female and Youth Population by {groupby_column}<\b>'
 )
 st.plotly_chart(fig)
-pip freeze >requirements.txt
+
